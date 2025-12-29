@@ -3,12 +3,15 @@
 int a;
 
 int main(){
-    printf("Ingrese un numero que se repetira n veces: ");
+    printf("Ingrese un numero que se repetira n veces y formara un cuadro: ");
 
-    scanf("%d", &a);
+    scanf("%d", &a);    
 
     for(int i = 0; i < a; i++){
-        printf("%d\n", a);
-    }s
+        for(int j = 0; j < a; j++){
+               printf("%d", a);
+        }
+        printf("\n");
+    }
     return 0;
 }
