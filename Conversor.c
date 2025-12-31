@@ -5,7 +5,7 @@
 double a;
 
 int main(){
-    printf("Ingrese un numero: menor a 256 ");
+    printf("Ingrese un numero: menor a 256 no por favor XD");
     scanf("%lf", &a);
     printf("El numero es : %.6f\n", a);
     
