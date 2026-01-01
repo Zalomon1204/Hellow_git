@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+//Soy una cosa pero barbara//
+
 //Conversor de variables//
 
 double a;
